@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("5ABELI_FSST_Gamemanager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c6d2442669cacf22fbd102335a710445109e906")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d74e941b36542591f15024e3b12067bac5d4c18")]
 [assembly: System.Reflection.AssemblyProductAttribute("5ABELI_FSST_Gamemanager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("5ABELI_FSST_Gamemanager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
