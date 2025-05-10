@@ -30,8 +30,8 @@ namespace _5ABELI_FSST_Gamemanager
             {
                 throw new Exception("Bitte füllen sie alle Felder korrekt aus!");
             }
-
-
+            
+            
 
         }
     }

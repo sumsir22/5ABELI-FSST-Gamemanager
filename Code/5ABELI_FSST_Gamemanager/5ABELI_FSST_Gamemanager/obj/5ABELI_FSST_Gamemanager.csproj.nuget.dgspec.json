@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ae671\\Documents\\GitHub\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj": {}
+    "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_Fächer\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ae671\\Documents\\GitHub\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj": {
+    "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_Fächer\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ae671\\Documents\\GitHub\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj",
+        "projectUniqueName": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_Fächer\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj",
         "projectName": "5ABELI_FSST_Gamemanager",
-        "projectPath": "C:\\Users\\ae671\\Documents\\GitHub\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj",
-        "packagesPath": "C:\\Users\\ae671\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ae671\\Documents\\GitHub\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\obj\\",
+        "projectPath": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_Fächer\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj",
+        "packagesPath": "C:\\Users\\Samir El-Farfar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_Fächer\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ae671\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Samir El-Farfar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
