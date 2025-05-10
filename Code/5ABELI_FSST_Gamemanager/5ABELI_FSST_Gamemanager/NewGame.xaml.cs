@@ -24,6 +24,15 @@ namespace _5ABELI_FSST_Gamemanager
             InitializeComponent();
         }
 
+        private void btn_add_Click(object sender, RoutedEventArgs e)
+        {
+            if (dp == null || tb_genre == null || tb_name == null)
+            {
+                throw new Exception("Bitte füllen sie alle Felder korrekt aus!");
+            }
 
+
+
+        }
     }
 }

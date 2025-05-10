@@ -5,8 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_5ABELI_FSST_Gamemanager"
         mc:Ignorable="d"
-        Title="NewGame" Height="450" Width="800">
+        Title="NewGame" Height="450" Width="300">
     <Grid>
-        
+        <Label Content="Name:" Margin="19,47,200,359"/>
+        <Label Content="Genre:" Margin="19,80,200,326"/>
+        <Label Content="Releasedatum:" Margin="19,113,188,293"/>
+        <TextBox x:Name="tb_name" HorizontalAlignment="Left" Height="24" Margin="150,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <TextBox x:Name="tb_genre" HorizontalAlignment="Left" Height="24" Margin="150,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Center" Height="60" Margin="0,217,0,0" VerticalAlignment="Top" Width="225" Click="btn_add_Click"/>
+        <Button x:Name="btn_cancle" Content="Cancle" HorizontalAlignment="Center" Height="60" Margin="0,306,0,0" VerticalAlignment="Top" Width="225"/>
+        <DatePicker x:Name="dp" HorizontalAlignment="Left" Margin="150,117,0,0" VerticalAlignment="Top"/>
+
     </Grid>
 </Window>
