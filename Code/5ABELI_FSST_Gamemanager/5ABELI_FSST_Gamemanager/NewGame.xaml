@@ -13,7 +13,7 @@
         <TextBox x:Name="tb_name" HorizontalAlignment="Left" Height="24" Margin="150,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
         <TextBox x:Name="tb_genre" HorizontalAlignment="Left" Height="24" Margin="150,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
         <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Center" Height="60" Margin="0,217,0,0" VerticalAlignment="Top" Width="225" Click="btn_add_Click"/>
-        <Button x:Name="btn_cancle" Content="Cancle" HorizontalAlignment="Center" Height="60" Margin="0,306,0,0" VerticalAlignment="Top" Width="225"/>
+        <Button x:Name="btn_cancle" Content="Cancle" HorizontalAlignment="Center" Height="60" Margin="0,306,0,0" VerticalAlignment="Top" Width="225" Click="btn_cancle_Click"/>
         <DatePicker x:Name="dp" HorizontalAlignment="Left" Margin="150,117,0,0" VerticalAlignment="Top"/>
 
     </Grid>

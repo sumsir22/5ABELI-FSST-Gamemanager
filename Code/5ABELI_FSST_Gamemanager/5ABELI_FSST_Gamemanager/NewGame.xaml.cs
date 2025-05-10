@@ -19,6 +19,8 @@ namespace _5ABELI_FSST_Gamemanager
     /// </summary>
     public partial class NewGame : Window
     {
+
+        Gamelist gamelist = new Gamelist();
         public NewGame(Gamelist gamelist)
         {
             InitializeComponent();
@@ -33,6 +35,12 @@ namespace _5ABELI_FSST_Gamemanager
 
 
 
+        }
+
+        private void btn_cancle_Click(object sender, RoutedEventArgs e)
+        {
+            NewGame newGame = new NewGame(gamelist);
+            newGame.Close();
         }
     }
 }
