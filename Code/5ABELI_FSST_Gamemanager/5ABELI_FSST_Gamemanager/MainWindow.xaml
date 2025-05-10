@@ -9,9 +9,9 @@
     <Grid>
         <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Left" Height="52" Margin="48,238,0,0" VerticalAlignment="Top" Width="133"/>
         <Button x:Name="btn_delete" Content="Delete" HorizontalAlignment="Left" Height="53" Margin="48,295,0,0" VerticalAlignment="Top" Width="133"/>
-        <Button x:Name="btn_new_list" Content="New" HorizontalAlignment="Left" Height="53" Margin="48,106,0,0" VerticalAlignment="Top" Width="133"/>
+        <Button x:Name="btn_new_game" Content="New" HorizontalAlignment="Left" Height="53" Margin="48,106,0,0" VerticalAlignment="Top" Width="133" Click="btn_new_game_Click"/>
         <Button x:Name="btn_open_list" Content="Open" HorizontalAlignment="Left" Height="53" Margin="48,164,0,0" VerticalAlignment="Top" Width="133"/>
-        <ListView HorizontalAlignment="Left" Height="355" Margin="203,0,0,0" VerticalAlignment="Center" Width="574" d:ItemsSource="{d:SampleData ItemCount=5}">
+        <ListView x:Name="listview_games" HorizontalAlignment="Left" Height="355" Margin="203,0,0,0" VerticalAlignment="Center" Width="574" d:ItemsSource="{d:SampleData ItemCount=5}">
             <ListView.View>
                 <GridView>
                     <GridViewColumn/>

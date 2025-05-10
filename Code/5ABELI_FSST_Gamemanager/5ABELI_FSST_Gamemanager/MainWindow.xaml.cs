@@ -16,9 +16,17 @@ namespace _5ABELI_FSST_Gamemanager
     /// </summary>
     public partial class MainWindow : Window
     {
+        Gamelist gamelist = new Gamelist();
+
         public MainWindow()
         {
             InitializeComponent();
+        }
+
+        private void btn_new_game_Click(object sender, RoutedEventArgs e)
+        {
+            NewGame newGameWindow = new NewGame(gamelist);
+            newGameWindow.ShowDialog();
         }
     }
 }

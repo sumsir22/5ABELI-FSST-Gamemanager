@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\rawgapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\rawgapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\newgame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\newgame.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\gamelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\gamelist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\newgame.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\newgame.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|c:\\users\\samir el-farfar\\desktop\\allgemein\\3_aufbaulehrgang\\2_f\u00E4cher\\fsst\\5abeli-fsst-gamemanager\\code\\5abeli_fsst_gamemanager\\5abeli_fsst_gamemanager\\rawgapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F647FF1-CE12-4E05-8FD1-523EA245F1BE}|5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager.csproj|solutionrelative:5abeli_fsst_gamemanager\\rawgapiclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,37 +38,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewGame.xaml",
+              "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\NewGame.xaml",
+              "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\NewGame.xaml",
+              "ToolTip": "5ABELI_FSST_Gamemanager/NewGame.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "OverriddenGroupName": "5ABELI_FSST_Gamemanager",
+              "OverriddenToolTip": "5ABELI_FSST_Gamemanager/NewGame.xaml",
+              "WhenOpened": "2025-05-10T06:54:32.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "RawgApiClient.cs",
-              "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\RawgApiClient.cs",
-              "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\RawgApiClient.cs",
-              "ToolTip": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\RawgApiClient.cs",
-              "RelativeToolTip": "5ABELI_FSST_Gamemanager\\RawgApiClient.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Title": "NewGame.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\NewGame.xaml.cs",
+              "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\NewGame.xaml.cs",
+              "ToolTip": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\NewGame.xaml.cs",
+              "RelativeToolTip": "5ABELI_FSST_Gamemanager\\NewGame.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T08:38:08.103Z",
+              "WhenOpened": "2025-05-10T06:55:04.126Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Game.cs",
-              "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\Game.cs",
-              "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\Game.cs",
-              "ToolTip": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\Game.cs",
-              "RelativeToolTip": "5ABELI_FSST_Gamemanager\\Game.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-09T08:26:22.064Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\MainWindow.xaml",
               "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\MainWindow.xaml",
@@ -68,15 +80,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\MainWindow.xaml.cs",
               "RelativeToolTip": "5ABELI_FSST_Gamemanager\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAADgvxsAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-08T18:15:45.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Gamelist.cs",
+              "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\Gamelist.cs",
+              "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\Gamelist.cs",
+              "ToolTip": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\Gamelist.cs",
+              "RelativeToolTip": "5ABELI_FSST_Gamemanager\\Gamelist.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-10T06:33:47.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\Game.cs",
+              "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\Game.cs",
+              "ToolTip": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\Game.cs",
+              "RelativeToolTip": "5ABELI_FSST_Gamemanager\\Game.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAACIAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:26:22.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RawgApiClient.cs",
+              "DocumentMoniker": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\RawgApiClient.cs",
+              "RelativeDocumentMoniker": "5ABELI_FSST_Gamemanager\\RawgApiClient.cs",
+              "ToolTip": "C:\\Users\\Samir El-Farfar\\Desktop\\Allgemein\\3_Aufbaulehrgang\\2_F\u00E4cher\\FSST\\5ABELI-FSST-Gamemanager\\Code\\5ABELI_FSST_Gamemanager\\5ABELI_FSST_Gamemanager\\RawgApiClient.cs",
+              "RelativeToolTip": "5ABELI_FSST_Gamemanager\\RawgApiClient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-09T08:38:08.103Z",
               "EditorCaption": ""
             }
           ]
