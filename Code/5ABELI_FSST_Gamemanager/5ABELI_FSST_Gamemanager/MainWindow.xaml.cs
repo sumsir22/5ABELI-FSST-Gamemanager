@@ -25,8 +25,8 @@ namespace _5ABELI_FSST_Gamemanager
 
         private void btn_new_game_Click(object sender, RoutedEventArgs e)
         {
-            NewGame newGameWindow = new NewGame(gamelist);
-            newGameWindow.ShowDialog();
+            NewGame newGameWindow = new NewGame(gamelist, listview_games);  //create new window
+            newGameWindow.ShowDialog();     //open new window
         }
     }
 }

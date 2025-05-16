@@ -9,11 +9,11 @@ namespace _5ABELI_FSST_Gamemanager
 {
     public class Gamelist
     {
-        // This class is used to store a list of games
-        public List<Game> gamelist = new List<Game>();
+        
+        public List<Game> gamelist = new List<Game>();  //List of game class
 
-        // This is our constructor
-        public Gamelist() { }
+        
+        public Gamelist() { }   //constructor
 
         public override string ToString()
         {
@@ -22,12 +22,12 @@ namespace _5ABELI_FSST_Gamemanager
             foreach (Game game in gamelist)
             {
                 i++;
-                g += i + ".\t" + gamelist.ToString() + "\n";
+                g += i + ".\t" + gamelist.ToString() + "\n";    //Writing the gamelist 
             }
-            return g;
+            return g;       //return the complet list
         }
 
-        public void save(string path)
+        public void save(string path)   //save the list to external path
         {
             StreamWriter sw = new StreamWriter(path);
             foreach (Game game in gamelist)
@@ -37,7 +37,7 @@ namespace _5ABELI_FSST_Gamemanager
             sw.Close();
         }
 
-        public void load(string path)
+        public void load(string path)   //load list from external path
         {
             StreamReader sr = new StreamReader(path);
             gamelist.Clear();
@@ -50,11 +50,11 @@ namespace _5ABELI_FSST_Gamemanager
             sr.Close();
         }
 
-        public void add(string name, string genre, DateTime releaseDate)
+        public void add(string name, string genre, DateTime releaseDate)    //add a new game to list
         {
             gamelist.Add(new Game(name, genre, releaseDate));
         }
-        public void del(int pos)
+        public void del(int pos)    //delet a game at specified position
         {
             gamelist.RemoveAt(pos - 1);
         }

@@ -14,7 +14,9 @@
         <ListView x:Name="listview_games" HorizontalAlignment="Left" Height="355" Margin="203,0,0,0" VerticalAlignment="Center" Width="574" d:ItemsSource="{d:SampleData ItemCount=5}">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn/>
+                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding name}" Width="100"/>
+                    <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding genre}" Width="100"/>
+                    <GridViewColumn Header="Release Date" DisplayMemberBinding="{Binding releaseDate}" Width="100"/>
                 </GridView>
             </ListView.View>
         </ListView>

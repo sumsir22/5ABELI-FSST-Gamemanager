@@ -19,3 +19,5 @@ C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABEL
 C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.pdb
 C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.genruntimeconfig.cache
 C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\ref\5ABELI_FSST_Gamemanager.dll
+C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\NewGame.g.cs
+C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\NewGame.baml

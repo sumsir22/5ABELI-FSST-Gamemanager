@@ -19,11 +19,13 @@ namespace _5ABELI_FSST_Gamemanager
     /// </summary>
     public partial class NewGame : Window
     {
-
         Gamelist gamelist = new Gamelist();
-        public NewGame(Gamelist gamelist)
+        ListView listview_games = new ListView();
+        public NewGame(Gamelist gamelist, ListView listview_games)
         {
             InitializeComponent();
+            this.gamelist = gamelist;
+            this.listview_games = listview_games;
         }
 
         private void btn_add_Click(object sender, RoutedEventArgs e)
@@ -33,14 +35,20 @@ namespace _5ABELI_FSST_Gamemanager
                 throw new Exception("Bitte füllen sie alle Felder korrekt aus!");
             }
 
+            DateTime releaseDate = (DateTime)dp.SelectedDate;
+            string genre = tb_genre.Text;
+            string name = tb_name.Text;
 
+            gamelist.add(name, genre, releaseDate); // Add the new game to the gamelist
+            listview_games.ItemsSource = null; // Reset the ItemsSource to refresh the ListView
+            listview_games.ItemsSource = gamelist.gamelist; // Set the updated gamelist as the ItemsSource
 
+            this.Close(); // Close the window
         }
 
-        private void btn_cancle_Click(object sender, RoutedEventArgs e)
+        private void btn_cancel_Click(object sender, RoutedEventArgs e)
         {
-            NewGame newGame = new NewGame(gamelist);
-            newGame.Close();
+            this.Close(); // Close the window
         }
     }
 }

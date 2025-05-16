@@ -5,16 +5,16 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:_5ABELI_FSST_Gamemanager"
         mc:Ignorable="d"
-        Title="NewGame" Height="450" Width="300">
+        Title="NewGame" Height="450" Width="388">
     <Grid>
-        <Label Content="Name:" Margin="19,47,200,359"/>
-        <Label Content="Genre:" Margin="19,80,200,326"/>
-        <Label Content="Releasedatum:" Margin="19,113,188,293"/>
-        <TextBox x:Name="tb_name" HorizontalAlignment="Left" Height="24" Margin="150,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
-        <TextBox x:Name="tb_genre" HorizontalAlignment="Left" Height="24" Margin="150,82,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <TextBox x:Name="tb_name" HorizontalAlignment="Left" Height="24" Margin="185,59,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
+        <TextBox x:Name="tb_genre" HorizontalAlignment="Left" Height="24" Margin="185,92,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="126"/>
         <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Center" Height="60" Margin="0,217,0,0" VerticalAlignment="Top" Width="225" Click="btn_add_Click"/>
-        <Button x:Name="btn_cancle" Content="Cancle" HorizontalAlignment="Center" Height="60" Margin="0,306,0,0" VerticalAlignment="Top" Width="225" Click="btn_cancle_Click"/>
-        <DatePicker x:Name="dp" HorizontalAlignment="Left" Margin="150,117,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="btn_cancel" Content="Cancel" HorizontalAlignment="Center" Height="60" Margin="0,306,0,0" VerticalAlignment="Top" Width="225" Click="btn_cancel_Click"/>
+        <DatePicker x:Name="dp" HorizontalAlignment="Left" Margin="185,127,0,0" VerticalAlignment="Top"/>
+        <Label Content="Name:" HorizontalAlignment="Left" Height="24" Margin="62,59,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label Content="Genre:" HorizontalAlignment="Left" Height="24" Margin="62,92,0,0" VerticalAlignment="Top" Width="85"/>
+        <Label Content="Release Date:" HorizontalAlignment="Left" Height="24" Margin="62,127,0,0" VerticalAlignment="Top" Width="85"/>
 
     </Grid>
 </Window>
