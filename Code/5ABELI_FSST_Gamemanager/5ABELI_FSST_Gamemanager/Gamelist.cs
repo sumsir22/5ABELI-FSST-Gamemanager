@@ -45,14 +45,14 @@ namespace _5ABELI_FSST_Gamemanager
             while ((s = sr.ReadLine()) != null)
             {
                 string[] ts = s.Split(';');
-                gamelist.Add(new Game(ts[0], ts[1], Convert.ToDateTime(ts[2])));
+                gamelist.Add(new Game(ts[0], ts[1],ts[2]));
             }
             sr.Close();
         }
 
-        public void add(string name, string genre, DateTime releaseDate)    //add a new game to list
+        public void add(string name, string genre, string date)    //add a new game to list
         {
-            gamelist.Add(new Game(name, genre, releaseDate));
+            gamelist.Add(new Game(name, genre, date));
         }
         public void del(int pos)    //delet a game at specified position
         {

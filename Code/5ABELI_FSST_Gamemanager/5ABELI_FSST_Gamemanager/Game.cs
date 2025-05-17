@@ -13,29 +13,29 @@ namespace _5ABELI_FSST_Gamemanager
         // Propertys
         public string name { get; set; } = "";      //Name of the game
         public string genre { get; set; } = "";     //Genre of the game
-        public DateTime releaseDate { get; set; }   //Releasedate of the game
+        public string date { get; set; }   //Releasedate of the game
         /*public string platform { get; set; } = "";
         public string developer { get; set; } = "";
         public string publisher { get; set; } = "";*/
 
        
-        public Game(string name, string genre, DateTime releaseDate)    //constructor
+        public Game(string name, string genre, string date)    //constructor
         {
             this.name = name;
             this.genre = genre;
-            this.releaseDate = releaseDate;
+            this.date = date;
         }
 
        
         public override string ToString()
         {
-            return $"{name} ({genre}) - {releaseDate.ToShortDateString()}"; //Output format for List
+            return $"{name} ({genre}) - {date}"; //Output format for List
         }
 
         
         public string saveformat()
         {
-            return $"{name};{genre};{releaseDate.ToString("yyyy-MM-dd")}";  //saveformat for storage
+            return $"{name};{genre};{date}";  //saveformat for storage
         }
 
 

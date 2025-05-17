@@ -36,10 +36,11 @@ namespace _5ABELI_FSST_Gamemanager
             }
 
             DateTime releaseDate = (DateTime)dp.SelectedDate;
+            string date = releaseDate.ToString("dd.MM.yyyy"); // Format the date to "dd.MM.yyyy"
             string genre = tb_genre.Text;
             string name = tb_name.Text;
 
-            gamelist.add(name, genre, releaseDate); // Add the new game to the gamelist
+            gamelist.add(name, genre, date); // Add the new game to the gamelist
             listview_games.ItemsSource = null; // Reset the ItemsSource to refresh the ListView
             listview_games.ItemsSource = gamelist.gamelist; // Set the updated gamelist as the ItemsSource
 

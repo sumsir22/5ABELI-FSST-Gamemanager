@@ -21,3 +21,26 @@ C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABEL
 C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\ref\5ABELI_FSST_Gamemanager.dll
 C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\NewGame.g.cs
 C:\Users\Samir El-Farfar\Desktop\Allgemein\3_Aufbaulehrgang\2_Fächer\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\NewGame.baml
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\bin\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.exe
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\bin\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.deps.json
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\bin\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.runtimeconfig.json
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\bin\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.dll
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\bin\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.pdb
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\MainWindow.g.cs
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\NewGame.g.cs
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\App.g.cs
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager_MarkupCompile.cache
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager_MarkupCompile.lref
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\MainWindow.baml
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\NewGame.baml
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.g.resources
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.AssemblyInfoInputs.cache
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.AssemblyInfo.cs
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.csproj.CoreCompileInputs.cache
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.sourcelink.json
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.dll
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\refint\5ABELI_FSST_Gamemanager.dll
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.pdb
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\5ABELI_FSST_Gamemanager.genruntimeconfig.cache
+C:\Users\samir\Desktop\Allgemein\Schule\2_5ABELI\FSST\5ABELI-FSST-Gamemanager\Code\5ABELI_FSST_Gamemanager\5ABELI_FSST_Gamemanager\obj\Debug\net9.0-windows\ref\5ABELI_FSST_Gamemanager.dll

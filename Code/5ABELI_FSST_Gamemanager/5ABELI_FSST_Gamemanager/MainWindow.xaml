@@ -7,19 +7,21 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Left" Height="52" Margin="48,238,0,0" VerticalAlignment="Top" Width="133"/>
-        <Button x:Name="btn_delete" Content="Delete" HorizontalAlignment="Left" Height="53" Margin="48,295,0,0" VerticalAlignment="Top" Width="133"/>
-        <Button x:Name="btn_new_game" Content="New" HorizontalAlignment="Left" Height="53" Margin="48,106,0,0" VerticalAlignment="Top" Width="133" Click="btn_new_game_Click"/>
-        <Button x:Name="btn_open_list" Content="Open" HorizontalAlignment="Left" Height="53" Margin="48,164,0,0" VerticalAlignment="Top" Width="133"/>
+        <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Left" Height="52" Margin="44,244,0,0" VerticalAlignment="Top" Width="133" Click="btn_add_Click"/>
+        <Button x:Name="btn_delete" Content="Delete" HorizontalAlignment="Left" Height="53" Margin="44,301,0,0" VerticalAlignment="Top" Width="133"/>
+        <Button x:Name="btn_new_game" Content="New" HorizontalAlignment="Left" Height="53" Margin="44,70,0,0" VerticalAlignment="Top" Width="133" Click="btn_new_game_Click"/>
+        <Button x:Name="btn_open_list" Content="Open" HorizontalAlignment="Left" Height="53" Margin="44,128,0,0" VerticalAlignment="Top" Width="133"/>
         <ListView x:Name="listview_games" HorizontalAlignment="Left" Height="355" Margin="203,0,0,0" VerticalAlignment="Center" Width="574" d:ItemsSource="{d:SampleData ItemCount=5}">
             <ListView.View>
                 <GridView>
                     <GridViewColumn Header="Name" DisplayMemberBinding="{Binding name}" Width="100"/>
                     <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding genre}" Width="100"/>
-                    <GridViewColumn Header="Release Date" DisplayMemberBinding="{Binding releaseDate}" Width="100"/>
+                    <GridViewColumn Header="Date" DisplayMemberBinding="{Binding date}" Width="100"/>
                 </GridView>
             </ListView.View>
         </ListView>
+        <Label x:Name="lbl_current_file" Content="" HorizontalAlignment="Left" Height="32" Margin="44,56,0,0" VerticalAlignment="Top" Width="114"/>
+        <Button x:Name="btn_save_list" Content="Save" HorizontalAlignment="Left" Height="53" Margin="44,186,0,0" VerticalAlignment="Top" Width="133" Click="btn_save_list_Click"/>
 
     </Grid>
 </Window>
