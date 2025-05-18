@@ -56,7 +56,7 @@ namespace _5ABELI_FSST_Gamemanager
         }
         public void del(int pos)    //delet a game at specified position
         {
-            gamelist.RemoveAt(pos - 1);
+            gamelist.RemoveAt(pos);
         }
     }
 }

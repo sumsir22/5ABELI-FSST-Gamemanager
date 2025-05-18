@@ -83,18 +83,18 @@ namespace _5ABELI_FSST_Gamemanager
             newGameWindow.ShowDialog();     //open new window
         }
 
-        /*private void btn_delete_Click(object sender, RoutedEventArgs e)
+        private void btn_delete_Click(object sender, RoutedEventArgs e)
         {
-            // Prüfen, ob ein Element ausgewählt ist
+            // it checks, if a game is selected in the listview
             if (listview_games.SelectedItem is Game selectedGame)
             {
-                // Index des ausgewählten Spiels in der Liste finden
+                // index of the selected game
                 int index = gamelist.gamelist.IndexOf(selectedGame);
                 if (index >= 0)
                 {
-                    // Spiel aus der Liste entfernen
+                    // delete the selected game from the list
                     gamelist.del(index);
-                    // ListView aktualisieren
+                    // listview refresh
                     listview_games.ItemsSource = null;
                     listview_games.ItemsSource = gamelist.gamelist;
                 }
@@ -102,7 +102,7 @@ namespace _5ABELI_FSST_Gamemanager
             else
             {
                 MessageBox.Show("Bitte wählen Sie ein Spiel aus, das gelöscht werden soll.", "Kein Spiel ausgewählt", MessageBoxButton.OK, MessageBoxImage.Warning);
-            } */
+            } 
         }
 
     }
