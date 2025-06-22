@@ -32,7 +32,7 @@ namespace _5ABELI_FSST_Gamemanager
             btn_delete.IsEnabled = false;
         }
 
-        private void enable_btn() //Deactivates the usage of Buttons
+        private void enable_btn() //Activates the usage of Buttons
         {
             btn_add.IsEnabled = true;
             btn_save_list.IsEnabled = true;
@@ -80,12 +80,14 @@ namespace _5ABELI_FSST_Gamemanager
         private void btn_save_list_Click(object sender, RoutedEventArgs e)
         {
             gamelist.save(safepath);  //saves the file
+            btn_save_list.IsEnabled = false;
         }
 
         private void btn_add_Click(object sender, RoutedEventArgs e)
         {
             NewGame newGameWindow = new NewGame(gamelist, listview_games);  //create new window
             newGameWindow.ShowDialog();     //open new window
+            btn_save_list.IsEnabled = true;
         }
 
         private void btn_delete_Click(object sender, RoutedEventArgs e)
@@ -108,6 +110,7 @@ namespace _5ABELI_FSST_Gamemanager
             {
                 MessageBox.Show("Bitte wählen Sie ein Spiel aus, das gelöscht werden soll.", "Kein Spiel ausgewählt", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
+            btn_save_list.IsEnabled = true;
         }
 
         private void GridViewColumnHeader_Click(object sender, RoutedEventArgs e)
