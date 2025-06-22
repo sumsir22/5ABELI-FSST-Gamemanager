@@ -6,6 +6,11 @@
         xmlns:local="clr-namespace:_5ABELI_FSST_Gamemanager"
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <Style x:Key="ClickableHeaderStyle" TargetType="GridViewColumnHeader">
+            <EventSetter Event="Click" Handler="GridViewColumnHeader_Click"/>
+        </Style>
+    </Window.Resources>
     <Grid>
         <Button x:Name="btn_add" Content="Add" HorizontalAlignment="Left" Height="52" Margin="44,244,0,0" VerticalAlignment="Top" Width="133" Click="btn_add_Click"/>
         <Button x:Name="btn_delete" Content="Delete" HorizontalAlignment="Left" Height="53" Margin="44,301,0,0" VerticalAlignment="Top" Width="133" Click="btn_delete_Click"/>
@@ -14,9 +19,9 @@
         <ListView x:Name="listview_games" HorizontalAlignment="Left" Height="355" Margin="203,0,0,0" VerticalAlignment="Center" Width="574" d:ItemsSource="{d:SampleData ItemCount=5}">
             <ListView.View>
                 <GridView>
-                    <GridViewColumn Header="Name" DisplayMemberBinding="{Binding name}" Width="100"/>
-                    <GridViewColumn Header="Genre" DisplayMemberBinding="{Binding genre}" Width="100"/>
-                    <GridViewColumn Header="Date" DisplayMemberBinding="{Binding date}" Width="100"/>
+                    <GridViewColumn Header="name" DisplayMemberBinding="{Binding name}" Width="100" HeaderContainerStyle="{StaticResource ClickableHeaderStyle}"/>
+                    <GridViewColumn Header="genre" DisplayMemberBinding="{Binding genre}" Width="100" HeaderContainerStyle="{StaticResource ClickableHeaderStyle}"/>
+                    <GridViewColumn Header="date" DisplayMemberBinding="{Binding date}" Width="100" HeaderContainerStyle="{StaticResource ClickableHeaderStyle}"/>
                 </GridView>
             </ListView.View>
         </ListView>

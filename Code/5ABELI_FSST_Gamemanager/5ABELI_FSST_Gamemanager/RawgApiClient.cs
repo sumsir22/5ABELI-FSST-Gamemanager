@@ -19,9 +19,10 @@ namespace _5ABELI_FSST_Gamemanager
         {
             _apiKey = apiKey;
             _httpClient = new HttpClient();
+            int bomboclat = 0;
         }
 
-        public async Task<Gamelist> SearchGamesAsync(string query)
+        public async Task<Gamelist> SearchGamesAsync(string query) //bomboclat
         {
             var url = $"https://api.rawg.io/api/games?key={_apiKey}&search={query}";
             var response = await _httpClient.GetStringAsync(url);

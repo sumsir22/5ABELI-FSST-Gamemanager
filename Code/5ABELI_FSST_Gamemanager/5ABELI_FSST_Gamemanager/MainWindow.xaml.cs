@@ -1,4 +1,5 @@
 ﻿using Microsoft.Win32;
+using System.ComponentModel;
 using System.Text;
 using System.Windows;
 using System.Windows.Controls;
@@ -19,7 +20,11 @@ namespace _5ABELI_FSST_Gamemanager
     {
         Gamelist gamelist = new Gamelist();
         string safepath = ""; // Path to save the file
- 
+
+        //for sorting the ListView
+        private GridViewColumnHeader _lastHeaderClicked = null;
+        private ListSortDirection _lastDirection = ListSortDirection.Ascending;
+
         private void disable_btn() //Deactivates the usage of Buttons
         {
             btn_add.IsEnabled = false;
@@ -39,7 +44,7 @@ namespace _5ABELI_FSST_Gamemanager
             InitializeComponent();
             disable_btn(); // Deactivate buttons at the beginning
         }
-        
+
 
         public void btn_new_game_Click(object sender, RoutedEventArgs e)
         {
@@ -102,7 +107,33 @@ namespace _5ABELI_FSST_Gamemanager
             else
             {
                 MessageBox.Show("Bitte wählen Sie ein Spiel aus, das gelöscht werden soll.", "Kein Spiel ausgewählt", MessageBoxButton.OK, MessageBoxImage.Warning);
-            } 
+            }
+        }
+
+        private void GridViewColumnHeader_Click(object sender, RoutedEventArgs e)
+        {
+            var headerClicked = e.OriginalSource as GridViewColumnHeader;
+            if (headerClicked == null || headerClicked.Column == null)
+                return;
+
+            string sortBy = headerClicked.Column.Header as string;
+            ListSortDirection direction = ListSortDirection.Ascending;
+            if (headerClicked == _lastHeaderClicked && _lastDirection == ListSortDirection.Ascending)
+                direction = ListSortDirection.Descending;
+
+            Sort(sortBy, direction);
+
+            _lastHeaderClicked = headerClicked;
+            _lastDirection = direction;
+        }
+
+        private void Sort(string sortBy, ListSortDirection direction)
+        {
+            ICollectionView dataView = CollectionViewSource.GetDefaultView(listview_games.ItemsSource);
+
+            dataView.SortDescriptions.Clear();
+            dataView.SortDescriptions.Add(new SortDescription(sortBy, direction));
+            dataView.Refresh();
         }
 
     }
